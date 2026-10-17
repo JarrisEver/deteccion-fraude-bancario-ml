@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Inteligente de Detección de Fraudes Bancarios",
+  "description": "Aplicación universitaria interactiva de Machine Learning supervisado mediante Random Forest para detección de fraudes en tarjetas bancarias utilizando el dataset de Kaggle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
